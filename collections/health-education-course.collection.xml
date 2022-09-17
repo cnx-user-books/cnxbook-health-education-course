@@ -1,0 +1,19 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Virgil Bourassa ,Fred Mednick">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10330</md:content-id>
+    <md:title>Health Education Course</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>ccd9f34d-74e9-410f-9dc4-f0503f8d459a</md:uuid>
+<md:slug>health-education-course</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m13328"/>
+    <col:module document="m13329"/>
+    <col:module document="m13330"/>
+    <col:module document="m13331"/>
+    <col:module document="m13332"/>
+    <col:module document="m13333"/>
+    <col:module document="m13334"/>
+  </col:content>
+</col:collection>
